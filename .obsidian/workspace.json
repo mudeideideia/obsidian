@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4969263069f0e641",
+            "id": "4bec3b82cb9110fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Noun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,9 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4969263069f0e641",
+  "active": "4bec3b82cb9110fe",
   "lastOpenFiles": [
-    "Nihongo/Kanji/顔.md",
-    "Nihongo/Kanji/雲.md"
+    "爆発.md",
+    "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
+    "火山.md",
+    "Nihongo/Vocab/パノラマ.md",
+    "Nihongo/Kanji/雲.md",
+    "Nihongo/Vocab/光る.md",
+    "怒って.md",
+    "地球.md",
+    "蹴られた.md",
+    "Nihongo/Vocab/広がる.md",
+    "Nihongo/Vocab/体中.md",
+    "Nihongo/Vocab/突き抜け.md",
+    "Nihongo/Kanji/突.md",
+    "Nihongo/Kanji/顔.md"
   ]
 }
