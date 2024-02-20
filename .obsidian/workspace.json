@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
+                "file": "Nihongo/Vocab/地球.md",
                 "mode": "preview",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
+                "file": "Nihongo/Vocab/地球.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
+                "file": "Nihongo/Vocab/地球.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md"
+                "file": "Nihongo/Vocab/地球.md"
               }
             }
           }
@@ -147,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bec3b82cb9110fe",
+  "active": "ebb34ce989285f76",
   "lastOpenFiles": [
-    "爆発.md",
+    "Nihongo/Lyrics/Untitled.md",
     "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
-    "火山.md",
+    "Nihongo/Vocab/爆発.md",
+    "Nihongo/Vocab/火山.md",
     "Nihongo/Vocab/パノラマ.md",
     "Nihongo/Kanji/雲.md",
     "Nihongo/Vocab/光る.md",
-    "怒って.md",
-    "地球.md",
-    "蹴られた.md",
+    "Nihongo/Vocab/怒って.md",
+    "Nihongo/Vocab/地球.md",
+    "Nihongo/Vocab/蹴られた.md",
     "Nihongo/Vocab/広がる.md",
     "Nihongo/Vocab/体中.md",
     "Nihongo/Vocab/突き抜け.md",
