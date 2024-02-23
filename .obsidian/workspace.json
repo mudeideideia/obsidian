@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nihongo/Vocab/地球.md",
+                "file": "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b946e1f7a0cd616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Noun",
+                "query": "tag:#熱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nihongo/Vocab/地球.md",
+                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nihongo/Vocab/地球.md",
+                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nihongo/Vocab/地球.md"
+                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md"
               }
             }
           }
@@ -148,18 +161,23 @@
   },
   "active": "ebb34ce989285f76",
   "lastOpenFiles": [
-    "Nihongo/Lyrics/Untitled.md",
+    "Nihongo/Lyrics/「仮面ライダーBLACK」歌詞.md",
     "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
+    "Nihongo/Vocab/解き放.md",
+    "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
+    "Nihongo/Kanji/今.md",
+    "Nihongo/Vocab/熱い.md",
+    "Nihongo/Vocab/体中.md",
+    "Nihongo/Kanji/熱.md",
+    "Nihongo/Vocab/地球.md",
     "Nihongo/Vocab/爆発.md",
     "Nihongo/Vocab/火山.md",
     "Nihongo/Vocab/パノラマ.md",
     "Nihongo/Kanji/雲.md",
     "Nihongo/Vocab/光る.md",
     "Nihongo/Vocab/怒って.md",
-    "Nihongo/Vocab/地球.md",
     "Nihongo/Vocab/蹴られた.md",
     "Nihongo/Vocab/広がる.md",
-    "Nihongo/Vocab/体中.md",
     "Nihongo/Vocab/突き抜け.md",
     "Nihongo/Kanji/突.md",
     "Nihongo/Kanji/顔.md"
