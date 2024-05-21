@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bc43a05cd73c1a66",
+        "id": "9a45cc8f57bbe248",
         "type": "tabs",
         "children": [
           {
-            "id": "4bec3b82cb9110fe",
+            "id": "43798d84cf79e168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b946e1f7a0cd616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
+                "file": "N3DS/jogo do kanji/Instructions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "right": {
     "id": "979a6297be453820",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
+                "file": "N3DS/jogo do kanji/Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
+                "file": "N3DS/jogo do kanji/Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nihongo/Lyrics/SHINING SOUL 歌詞.md"
+                "file": "N3DS/jogo do kanji/Instructions.md"
               }
             }
           }
@@ -159,27 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebb34ce989285f76",
+  "active": "43798d84cf79e168",
   "lastOpenFiles": [
-    "Nihongo/Lyrics/「仮面ライダーBLACK」歌詞.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520223331.png",
+    "N3DS/jogo do kanji/readings/確認.md",
+    "N3DS/jogo do kanji/Instructions.md",
+    "N3DS/jogo do kanji/readings/登録.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520223155.png",
+    "N3DS/jogo do kanji/readings/変更.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520223009.png",
+    "N3DS/jogo do kanji/images/Pasted image 20240520222947.png",
+    "N3DS/jogo do kanji/readings/内容.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520222849.png",
+    "N3DS/jogo do kanji/images/Pasted image 20240520222830.png",
+    "Atualmente.md",
+    "N3DS/jogo do kanji/readings/設定.md",
+    "N3DS/jogo do kanji/readings/画面.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520212908.png",
+    "N3DS/jogo do kanji/readings/入力.md",
+    "N3DS/jogo do kanji/readings/漢字.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520215802.png",
+    "N3DS/jogo do kanji/readings/選択.md",
+    "N3DS/jogo do kanji/images/Pasted image 20240520215652.png",
+    "N3DS/jogo do kanji/images/Pasted image 20240520215613.png",
+    "N3DS/jogo do kanji/readings/現在.md",
+    "N3DS/jogo do kanji/readings/認識.md",
+    "N3DS/jogo do kanji/readings/機能.md",
+    "N3DS/jogo do kanji/readings/氏名.md",
+    "N3DS/jogo do kanji/readings/次.md",
+    "N3DS/jogo do kanji/readings",
+    "N3DS/jogo do kanji/images",
     "Nihongo/Lyrics/CHA-LA_HEAD-CHA-LA.md",
-    "Nihongo/Vocab/解き放.md",
     "Nihongo/Lyrics/SHINING SOUL 歌詞.md",
-    "Nihongo/Kanji/今.md",
     "Nihongo/Vocab/熱い.md",
+    "Nihongo/Kanji/今.md",
+    "Nihongo/Lyrics/「仮面ライダーBLACK」歌詞.md",
+    "N3DS/jogo do kanji",
+    "N3DS",
+    "Nihongo/Vocab/解き放.md",
     "Nihongo/Vocab/体中.md",
     "Nihongo/Kanji/熱.md",
-    "Nihongo/Vocab/地球.md",
-    "Nihongo/Vocab/爆発.md",
-    "Nihongo/Vocab/火山.md",
-    "Nihongo/Vocab/パノラマ.md",
-    "Nihongo/Kanji/雲.md",
-    "Nihongo/Vocab/光る.md",
-    "Nihongo/Vocab/怒って.md",
-    "Nihongo/Vocab/蹴られた.md",
-    "Nihongo/Vocab/広がる.md",
-    "Nihongo/Vocab/突き抜け.md",
-    "Nihongo/Kanji/突.md",
-    "Nihongo/Kanji/顔.md"
+    "Nihongo/Vocab/地球.md"
   ]
 }
